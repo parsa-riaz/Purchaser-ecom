@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44cad291.css",
+    "main.js": "/static/js/main.2ae9aa42.js",
+    "static/media/Bags.png": "/static/media/Bags.7d0d79066717ff3e01d8.png",
+    "static/media/Hero1.jpg": "/static/media/Hero1.744483dbf76037d30e91.jpg",
+    "static/media/sale.png": "/static/media/sale.7677217b3eda052525e0.png",
+    "static/media/men.jpg": "/static/media/men.f237c97534ef1f311358.jpg",
+    "static/media/shoes.jpg": "/static/media/shoes.713db7a4b7edb5dd65e2.jpg",
+    "static/media/fragrences.jpg": "/static/media/fragrences.583ad57311574a9ec764.jpg",
+    "static/media/jwellery.jpg": "/static/media/jwellery.4f5940afcb086d23125d.jpg",
+    "static/media/Fragrences.png": "/static/media/Fragrences.c086a62899f3a6d06b00.png",
+    "static/media/Shoes.png": "/static/media/Shoes.3a6a6516378e4e207ae6.png",
+    "static/media/womenbag.jpg": "/static/media/womenbag.fc659ad1ffd8c6e008a2.jpg",
+    "static/media/watches.jpg": "/static/media/watches.f2b1476e83259edc3f8d.jpg",
+    "static/media/mencollection.png": "/static/media/mencollection.ccc7d6f3c9f520d801b9.png",
+    "static/media/Womwnfasion.png": "/static/media/Womwnfasion.f158857f325095ce203c.png",
+    "static/media/Furniture.png": "/static/media/Furniture.6a142071df293b2cf68b.png",
+    "static/media/logo.png": "/static/media/logo.893a36e9957fb868b230.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.44cad291.css.map": "/static/css/main.44cad291.css.map",
+    "main.2ae9aa42.js.map": "/static/js/main.2ae9aa42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cad291.css",
+    "static/js/main.2ae9aa42.js"
+  ]
+}
