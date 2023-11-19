@@ -7,6 +7,7 @@ import cartRoutes from "./routes/cartRoutes.js";
 import orderRoutes from "./routes/orderRoutes.js";
 import dotenv from "dotenv";
 import cors from "cors";
+import path from "path";
 import fileUpload from "express-fileupload";
 import { fileURLToPath } from "url";
 
